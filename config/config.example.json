@@ -1,0 +1,6 @@
+{
+  "url": "https://example.com",
+  "interval_seconds": 300,
+  "timeout_ms": 30000,
+  "headless": false
+}
